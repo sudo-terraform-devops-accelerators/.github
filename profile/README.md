@@ -14,3 +14,6 @@
 🙋‍♀️ SUDO is commited to helping companies accelerate innovation and focus on solving new problems. These accelerators are created as production ready blue prints which can be used by organizations of any size to speed up launch of their products.
 
 🍿 Fork or clone the repo, Launch your product. 🚀
+
+
+For more information: https://sudoconsultants.com
